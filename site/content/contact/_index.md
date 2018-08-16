@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Контакты
 logo: /img/logo_ludoman.png
 contact_entries:
   - heading: Location
