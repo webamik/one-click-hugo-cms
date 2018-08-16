@@ -3,12 +3,10 @@ title: Побеждай каждый день
 subtitle: Сегодня ты можешь сделать новый шаг к мечте
 image: /img/winner.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Что это?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Это сообщество людей, которые приняли вызов оставить игру! Здесь мы делимся
+    своими мыслями о лудомании.
 intro:
   heading: What we offer
   text: >-
